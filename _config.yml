@@ -35,7 +35,7 @@ navigation:
   - name: FaceBook
     url: 'https://www.facebook.com/MACREZFREDDY'
     type: external
-  - name: jeu
+  - name: Jeu
     url: >-
       https://www.esn-lejeu.com/?utm_source=facebook&utm_campaign=M-1865-mob&utm_medium=cpc
     type: external
