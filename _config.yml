@@ -39,10 +39,6 @@ navigation:
     url: >-
       https://www.esn-lejeu.com/?utm_source=facebook&utm_campaign=M-1865-mob&utm_medium=cpc
     type: external
-  - name: Ciel
-    url: >-
-      https://www.google.fr/search?q=ciel+etoile&client=ubuntu&hs=TI&tbm=isch&source=lnt&tbs=sur:fc&sa=X&ved=0ahUKEwjmotP-iPnaAhXG0RQKHXGbAf8QpwUIHg&biw=1375&bih=785&dpr=1#imgrc=qikoxr16kICuFM:
-    type: external
 favicon: null
 title: Freddy Macrez
 content:
