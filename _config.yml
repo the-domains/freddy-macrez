@@ -1,16 +1,16 @@
-typography_spectrum: 0.2135437787859931
+layout_spectrum: 0.09029410254717389
+typography_spectrum: 0.40251114207532
 color:
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  brandStrength: 0.22078273994045905
-  lightness: 0.42015214944285995
-  saturation: 0.15257184877207888
-  rhythmicContrast: 0.34948660187699865
-layout_spectrum: 0.9687239260019938
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.8179539946469451
+  lightness: 0.5261219564367012
+  saturation: 0.39515487258055126
+  rhythmicContrast: 0.05287401980932544
 name: freddy macrez
 colors:
   brandColors:
