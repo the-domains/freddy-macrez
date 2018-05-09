@@ -46,6 +46,9 @@ navigation:
   - name: Blog
     url: 'https://blog.thegrid.io/'
     type: external
+  - name: Les dix commandements de l'information
+    id: 96eb7f57-5e3d-4af2-ae1b-29e9f3a47797
+    type: content
 favicon: null
 title: Freddy Macrez
 content:
