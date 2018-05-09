@@ -28,7 +28,90 @@ navigation:
     url: 'https://www.facebook.com/MACREZFREDDY'
     type: external
 title: Freddy Macrez
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FATNlGFbZVWA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DATNlGFbZVWA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FATNlGFbZVWA%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Top Factory
+          url: 'https://www.youtube.com/channel/UCWBqawES1a7WXRJiyjS37EA'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: www.youtube.com
+      keywords:
+        - top factory
+        - intelligence artificielle
+        - artificial intelligence
+        - ia
+        - ai
+        - ordinateur intelligent
+        - machine intelligente
+        - google brain
+        - blue brain
+        - nupic
+        - numen...
+      description: >-
+        Une intelligence artificielle est un programme capable d'effectuer
+        automatiquement certaines actions, prendre des initiatives, résoudre des
+        problèmes, voire même créer des choses. Dans cet épisode, nous allons
+        découvrir 10 de ces intelligences articielles dont certaines pourraient
+        rivaliser avec le cerveau humain ! Bon visionnage !
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=ATNlGFbZVWA'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=ATNlGFbZVWA
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=ATNlGFbZVWA
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=ATNlGFbZVWA'
+      title: 10 INTELLIGENCES ARTIFICIELLES VRAIMENT INTELLIGENTES
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Essai de Molly, l''intelligence artificielle qui conçoit votre site web.'
 github: true
 logo: >-
