@@ -46,7 +46,7 @@ navigation:
   - name: Blog
     url: 'https://blog.thegrid.io/'
     type: external
-  - name: 'commandements '
+  - name: 'Commandements '
     id: 96eb7f57-5e3d-4af2-ae1b-29e9f3a47797
     type: content
 favicon: null
