@@ -26,12 +26,12 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: FaceBook
-    url: 'https://www.facebook.com/MACREZFREDDY'
-    type: external
   - name: Gagnez
     id: 445f5cc2-5f05-47b0-9390-05cd22c9ec68
     type: content
+  - name: FaceBook
+    url: 'https://www.facebook.com/MACREZFREDDY'
+    type: external
   - name: essaie
     id: c6ee9faf-7f36-4a27-a63c-352dc9eaa6eb
     type: content
