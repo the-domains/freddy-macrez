@@ -66,7 +66,6 @@ content:
         problèmes, voire même créer des choses. Dans cet épisode, nous allons
         découvrir 10 de ces intelligences articielles dont certaines pourraient
         rivaliser avec le cerveau humain ! Bon visionnage !
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=ATNlGFbZVWA&feature=applinks'
