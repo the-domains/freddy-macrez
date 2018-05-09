@@ -1,0 +1,39 @@
+typography_spectrum: 0.2135437787859931
+color:
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  brandStrength: 0.22078273994045905
+  lightness: 0.42015214944285995
+  saturation: 0.15257184877207888
+  rhythmicContrast: 0.34948660187699865
+layout_spectrum: 0.9687239260019938
+name: freddy macrez
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: jeu
+    url: >-
+      https://www.esn-lejeu.com/?utm_source=facebook&utm_campaign=M-1865-mob&utm_medium=cpc
+    type: external
+  - name: FaceBook
+    url: 'https://www.facebook.com/MACREZFREDDY'
+    type: external
+title: Freddy Macrez
+content: []
+description: 'Essai de Molly, l''intelligence artificielle qui conçoit votre site web.'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa71872-086b-46f4-90a1-93ccc4c4f59b.png
+favicon: null
+author:
+  name: Freddy Macrez
+  url: 'https://thegrid.ai/freddy-macrez/'
