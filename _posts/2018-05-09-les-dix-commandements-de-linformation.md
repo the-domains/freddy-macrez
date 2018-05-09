@@ -4,16 +4,18 @@ description: >-
   Voici quelques règles résumées sous forme de commandements. Journalistes ou
   correspondants de presse, mais aussi tous les autres communicants, sont
   concernés par ceux-ci.
-dateModified: '2018-05-09T16:51:10.786Z'
-datePublished: '2018-05-09T16:51:52.510Z'
+dateModified: '2018-05-09T16:53:12.023Z'
+datePublished: '2018-05-09T16:53:13.196Z'
 title: Les dix commandements de l'information
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-09-les-dix-commandements-de-linformation.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-09T16:51:52.510Z'
-sourcePath: _posts/2018-05-09-les-dix-commandements-de-linformation.md
-_type: Blurb
+url: les-dix-commandements-de-linformation/index.html
+_type: Article
 
 ---
 ### Les dix commandements de l'information
