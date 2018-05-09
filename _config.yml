@@ -25,7 +25,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Essaie
+  - name: Accueil
     id: c6ee9faf-7f36-4a27-a63c-352dc9eaa6eb
     type: content
   - name: Gagnez
