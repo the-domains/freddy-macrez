@@ -43,9 +43,6 @@ navigation:
     url: >-
       https://www.google.fr/search?q=ciel+etoile&client=ubuntu&hs=TI&tbm=isch&source=lnt&tbs=sur:fc&sa=X&ved=0ahUKEwjmotP-iPnaAhXG0RQKHXGbAf8QpwUIHg&biw=1375&bih=785&dpr=1#imgrc=qikoxr16kICuFM:
     type: external
-  - name: Blog
-    url: 'https://blog.thegrid.io/'
-    type: external
   - name: 'Commandements '
     id: 96eb7f57-5e3d-4af2-ae1b-29e9f3a47797
     type: content
