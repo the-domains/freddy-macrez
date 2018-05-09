@@ -15,8 +15,7 @@ layout_spectrum: 0.3130356325453498
 author:
   name: Freddy Macrez
   url: 'https://thegrid.ai/freddy-macrez/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa71872-086b-46f4-90a1-93ccc4c4f59b.png
+logo: null
 name: freddy macrez
 colors:
   brandColors:
@@ -59,7 +58,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
