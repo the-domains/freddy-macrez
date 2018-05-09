@@ -1,17 +1,17 @@
-typography_spectrum: 0.40251114207532
+layout_spectrum: 0.3130356325453498
+typography_spectrum: 0.9924416658492519
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.8179539946469451
-  lightness: 0.5261219564367012
-  saturation: 0.39515487258055126
-  rhythmicContrast: 0.05287401980932544
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.4139594588722886
+  lightness: 0.34010550280083157
+  saturation: 0.11600116847931306
+  rhythmicContrast: 0.1991554076908765
 github: true
-layout_spectrum: 0.09029410254717389
 author:
   name: Freddy Macrez
   url: 'https://thegrid.ai/freddy-macrez/'
