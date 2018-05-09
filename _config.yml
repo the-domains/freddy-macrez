@@ -42,7 +42,7 @@ navigation:
     id: a64a19cb-8224-4fd9-9d2d-383bb28339c7
     type: content
 favicon: null
-title: Blog de Freddy Macrez
+title: Freddy Macrez
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
