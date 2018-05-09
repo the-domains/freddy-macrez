@@ -1,4 +1,3 @@
-layout_spectrum: 0.3130356325453498
 typography_spectrum: 0.9924416658492519
 color:
   brandColors:
@@ -12,6 +11,7 @@ color:
   saturation: 0.11600116847931306
   rhythmicContrast: 0.1991554076908765
 github: true
+layout_spectrum: 0.3130356325453498
 author:
   name: Freddy Macrez
   url: 'https://thegrid.ai/freddy-macrez/'
@@ -39,6 +39,10 @@ navigation:
     url: >-
       https://www.esn-lejeu.com/?utm_source=facebook&utm_campaign=M-1865-mob&utm_medium=cpc
     type: external
+  - name: ciel
+    url: >-
+      https://www.google.fr/search?q=ciel+etoile&client=ubuntu&hs=TI&tbm=isch&source=lnt&tbs=sur:fc&sa=X&ved=0ahUKEwjmotP-iPnaAhXG0RQKHXGbAf8QpwUIHg&biw=1375&bih=785&dpr=1#imgrc=qikoxr16kICuFM:
+    type: external
 favicon: null
 title: Freddy Macrez
 content:
@@ -50,19 +54,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/da64502f-6596-4566-96ff-9d2133936689.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
