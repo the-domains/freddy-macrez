@@ -38,6 +38,9 @@ navigation:
     url: >-
       https://www.esn-lejeu.com/?utm_source=facebook&utm_campaign=M-1865-mob&utm_medium=cpc
     type: external
+  - name: Lien
+    id: a64a19cb-8224-4fd9-9d2d-383bb28339c7
+    type: content
 favicon: null
 title: Freddy Macrez
 content:
@@ -49,19 +52,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c157e2-fa6b-4e5a-bdfd-ea9755882067.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
