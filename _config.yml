@@ -1,4 +1,3 @@
-layout_spectrum: 0.09029410254717389
 typography_spectrum: 0.40251114207532
 color:
   brandColors:
@@ -11,6 +10,13 @@ color:
   lightness: 0.5261219564367012
   saturation: 0.39515487258055126
   rhythmicContrast: 0.05287401980932544
+github: true
+layout_spectrum: 0.09029410254717389
+author:
+  name: Freddy Macrez
+  url: 'https://thegrid.ai/freddy-macrez/'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa71872-086b-46f4-90a1-93ccc4c4f59b.png
 name: freddy macrez
 colors:
   brandColors:
@@ -27,13 +33,10 @@ navigation:
   - name: FaceBook
     url: 'https://www.facebook.com/MACREZFREDDY'
     type: external
+  - name: Gagnez
+    id: 445f5cc2-5f05-47b0-9390-05cd22c9ec68
+    type: content
+favicon: null
 title: Freddy Macrez
 content: []
 description: 'Essai de Molly, l''intelligence artificielle qui conçoit votre site web.'
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fa71872-086b-46f4-90a1-93ccc4c4f59b.png
-favicon: null
-author:
-  name: Freddy Macrez
-  url: 'https://thegrid.ai/freddy-macrez/'
