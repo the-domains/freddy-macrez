@@ -4,9 +4,9 @@
         <description><![CDATA[Freddy Macrez]]></description>
         <link>https://thegrid.ai/freddy-macrez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 May 2018 22:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 May 2018 23:16:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/freddy-macrez/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 May 2018 22:52:47 GMT</pubDate>
+        <pubDate>Wed, 09 May 2018 23:16:16 GMT</pubDate>
         <item>
             <title><![CDATA[Accueil]]></title>
             <description><![CDATA[<h2><strong>Accueil</strong></h2>,<p>Elle est excentrique, mais elle ne vous hante jamais, ne facture jamais plus, ne rate jamais une date limite, ne tremble jamais devant votre demande d'un logo plus grand et fait tout son possible pour créer l'espace en ligne ultime.</p>,<p>Dans trois mois, elle aura déjà recherché et exploré plus de 100 milliards de décisions de design. Dans deux ans… vous n'avez qu'à attendre.<br>Source du texte https://uniregistry.com/thegrid/build-your-website-with-ai</p>]]></description>
@@ -20,6 +20,13 @@
             <link>https://thegrid.ai/freddy-macrez/gagnez-du-temps-focalisez-vous-sur-le-contenu/index.html</link>
             <guid isPermaLink="false">445f5cc2-5f05-47b0-9390-05cd22c9ec68</guid>
             <pubDate>Wed, 09 May 2018 14:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lien]]></title>
+            <description><![CDATA[<h3><strong>Lien</strong></h3>]]></description>
+            <link>https://thegrid.ai/freddy-macrez/lien/index.html</link>
+            <guid isPermaLink="false">a64a19cb-8224-4fd9-9d2d-383bb28339c7</guid>
+            <pubDate>Wed, 09 May 2018 23:15:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
