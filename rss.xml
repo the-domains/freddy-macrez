@@ -4,12 +4,20 @@
         <description><![CDATA[Freddy Macrez]]></description>
         <link>https://thegrid.ai/freddy-macrez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jun 2018 22:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jun 2018 22:45:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/freddy-macrez/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Jun 2018 22:41:55 GMT</pubDate>
+        <pubDate>Fri, 08 Jun 2018 22:45:40 GMT</pubDate>
         <item>
             <title><![CDATA[Accueil]]></title>
-            <description><![CDATA[<p>&lt;iframe src="https://getcryptotab.com/promo/ad/3/1408619676081382/" style="width: 250px; height: 250px" frameborder="no"&gt;&lt;/iframe&gt;</p>,<h2><strong>Accueil</strong></h2>,<p><em>Bonjour et bien venue sur votre blog.<br>Ce blog est conçu avec Moly</em></p>,<p><em>Dans trois mois, elle aura déjà recherché et exploré plus de 100 milliards de décisions de design. Dans deux ans… vous n'avez qu'à attendre.<br>Source du texte</em> https://uniregistry.com/thegrid/build-your-website-with-ai</p>]]></description>
+            <description><![CDATA[<pre><code>&lt;div id=&quot;ctab_ad&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var iframe = document.createElement(&apos;iframe&apos;);
+iframe.src = &apos;https://getcryptotab.com/promo/ad/3/1408619676081382/&apos;;
+iframe.frameBorder = &apos;no&apos;;
+iframe.style.width = &apos;250px&apos;;
+iframe.style.height = &apos;250px&apos;;
+document.getElementById(&apos;ctab_ad&apos;).appendChild(iframe);
+&lt;/script&gt;</code></pre>,<h2><strong>Accueil</strong></h2>,<p><em>Bonjour et bien venue sur votre blog.<br>Ce blog est conçu avec Moly</em></p>,<p><em>Dans trois mois, elle aura déjà recherché et exploré plus de 100 milliards de décisions de design. Dans deux ans… vous n'avez qu'à attendre.<br>Source du texte</em> https://uniregistry.com/thegrid/build-your-website-with-ai</p>]]></description>
             <link>https://thegrid.ai/freddy-macrez/essai/index.html</link>
             <guid isPermaLink="false">c6ee9faf-7f36-4a27-a63c-352dc9eaa6eb</guid>
             <pubDate>Wed, 09 May 2018 13:29:39 GMT</pubDate>
