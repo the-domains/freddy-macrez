@@ -1,5 +1,5 @@
-layout_spectrum: 0.3189354409863896
-typography_spectrum: 0.9943461369765498
+layout_spectrum: 0.3132624408353747
+typography_spectrum: 0.9000226950240644
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.4403218273586123
-  lightness: 0.11866187274880191
-  saturation: 0.5387500825445952
-  rhythmicContrast: 0.026984099312362696
+  brandStrength: 0.44178203955384915
+  lightness: 0.11601885890781806
+  saturation: 0.5384008954714357
+  rhythmicContrast: 0.02921917709955337
 github: true
 author:
   name: Freddy Macrez
