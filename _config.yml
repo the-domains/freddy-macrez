@@ -41,29 +41,5 @@ navigation:
     type: content
 favicon: null
 title: Freddy Macrez
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c157e2-fa6b-4e5a-bdfd-ea9755882067.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c157e2-fa6b-4e5a-bdfd-ea9755882067.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Blog  sur les technologie numérique Informatique,Robotique,I.A ect... '
